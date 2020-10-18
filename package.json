@@ -4,14 +4,16 @@
   "description": "PoC for Nightwatch",
   "main": "nightwatch.conf.js",
   "scripts": {
+    "lint": "eslint .",
     "debug": "node --inspect-brk node_modules/.bin/nightwatch",
     "test": "nightwatch"
   },
   "dependencies": {
-    "chromedriver": "^86.0.0"
+    "chromedriver": "^2.46.0"
   },
   "devDependencies": {
-    "nightwatch": "^1.4.3"
+    "nightwatch": "^1.4.3",
+    "eslint": "^5.15.1"
   },
   "keywords": [],
   "author": "",
