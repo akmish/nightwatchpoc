@@ -11,9 +11,7 @@
     "chromedriver": "^2.46.0",
     "nightwatch": "^1.4.3"
   },
-  "devDependencies": {
-    
-  },
+  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC"
