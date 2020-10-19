@@ -8,7 +8,7 @@
     "test": "nightwatch"
   },
   "dependencies": {
-    "chromedriver": "^2.46.0",
+    "chromedriver": "^86.0.0",
     "nightwatch": "^1.4.3"
   },
   "devDependencies": {},
