@@ -3,7 +3,7 @@ node_js:
     - node
 services:
     - xvfb
-dist: trusty
+dist: xenial
 addons:
     chrome: stable
 before_install:
