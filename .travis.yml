@@ -1,9 +1,11 @@
+os: osx
 language: node_js
 node_js:
     - "8"
 services:
     - xvfb
 dist: trusty
+sudo: required
 addons:
     chrome: stable
 before_install:
