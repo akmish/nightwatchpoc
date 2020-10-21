@@ -13,4 +13,5 @@ cache: npm
 addons:
     chrome: stable
 script:
-    - npm test
+#    - npm test
+     - nightwatch -c nightwatch.browserstack.conf.js
