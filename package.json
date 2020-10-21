@@ -5,11 +5,13 @@
   "main": "nightwatch.conf.js",
   "scripts": {
     "debug": "node --inspect-brk node_modules/.bin/nightwatch",
-    "test": "nightwatch"
+    "test": "nightwatch",
+    "test:browserstack": "nightwatch -c nightwatch.browserstack.conf.js"
   },
   "dependencies": {
     "chromedriver": "^85.0.1",
-    "nightwatch": "^1.4.3"
+    "nightwatch": "^1.4.3",
+    "dotenv": "^7.0.0"
   },
   "devDependencies": {},
   "keywords": [],
