@@ -15,8 +15,6 @@ config.test_settings.default.desiredCapabilities.chromeOptions.args = [];
 
 config.test_settings.default = {
       desiredCapabilities: {
-        'browserstack.user': process.env.USERNAME,
-        'browserstack.key': process.env.AUTOMATE_KEY,
         os: 'Windows',
         os_version: '10',
         browserName: 'chrome',
