@@ -18,7 +18,6 @@ module.exports = {
               'on_error': true,
               'path': 'tests_output/screenshots'
             },
-            
             "desiredCapabilities": {
               "browserName": "chrome",
               'chromeOptions': {

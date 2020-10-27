@@ -10,10 +10,11 @@
   },
   "dependencies": {
     "chromedriver": "^85.0.1",
-    "nightwatch": "^1.4.3",
+    "nightwatch": "^1.4.3"
+  },
+  "devDependencies": {
     "dotenv": "^7.0.0"
   },
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC"

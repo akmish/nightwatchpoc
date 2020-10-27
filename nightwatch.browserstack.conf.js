@@ -9,18 +9,18 @@ const config = {
     },
 };
 
-config.test_settings.default.desiredCapabilities['browserstack.user'] = process.env.USERNAME;
-config.test_settings.default.desiredCapabilities['browserstack.key'] = process.env.AUTOMATE_KEY;
+config.test_settings.default.desiredCapabilities['browserstack.user'] = process.env.BROWSERSTACK_USER;
+config.test_settings.default.desiredCapabilities['browserstack.key'] = process.env.BROWSERSTACK_KEY;
 config.test_settings.default.desiredCapabilities.chromeOptions.args = [];
 
-config.test_settings.default = {
-      desiredCapabilities: {
-        os: 'Windows',
-        os_version: '10',
-        browserName: 'chrome',
-        ['browserstack.local']: false
-      }
-};
+// config.test_settings.default = {
+//       desiredCapabilities: {
+//         os: 'Windows',
+//         os_version: '10',
+//         browserName: 'chrome',
+//         ['browserstack.local']: false
+//       }
+// };
 
 config.test_settings.firefox = {
     desiredCapabilities: {
