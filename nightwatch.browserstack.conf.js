@@ -21,14 +21,8 @@ config.test_settings.default = {
     }
 };
 
-console.log("Akshat");
-console.log(process.env.BROWSERSTACK_KEY);
-
 config.test_settings.default.desiredCapabilities['browserstack.user'] = process.env.BROWSERSTACK_USER;
 config.test_settings.default.desiredCapabilities['browserstack.key'] = process.env.BROWSERSTACK_KEY;
-//config.test_settings.default.desiredCapabilities.chromeOptions.args = [];
-
-
 
 config.test_settings.firefox = {
     desiredCapabilities: {
