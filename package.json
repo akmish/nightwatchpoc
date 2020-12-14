@@ -9,11 +9,12 @@
     "test:browserstack": "nightwatch -c nightwatch.browserstack.conf.js"
   },
   "dependencies": {
-    "chromedriver": "^85.0.1",
+    "chromedriver": "^87.0.4",
     "nightwatch": "^1.4.3"
   },
   "devDependencies": {
-    "dotenv": "^7.0.0"
+    "dotenv": "^7.0.0",
+    "geckodriver": "^1.21.1"
   },
   "keywords": [],
   "author": "",
