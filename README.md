@@ -2,7 +2,15 @@
 <html>
 <head>
 <body>
-<h2>Demo NightWatch Framework integrated with Travis and BrowserStack and run test as Cucumber scenarios in parallel mode.</h2>
+<h2>Demo NightWatch Framework:</h2>
+  <p>
+    <ul>
+      <li> Integration with Travis-CI </li>
+      <li> Remote execution on BrowserStack </li>
+      <li> Integration Cucumber </li>
+      <li> Parallel execution </li>
+  </ul>
+ </p>
 </body>
 </head>
 </html>
