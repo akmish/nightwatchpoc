@@ -1,6 +1,5 @@
 # nightwatchpoc
 <html>
-<head>
 <body>
 <h2>Demo NightWatch Framework:</h2>
   <p>
@@ -12,5 +11,4 @@
   </ul>
  </p>
 </body>
-</head>
 </html>
