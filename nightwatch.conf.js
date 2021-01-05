@@ -5,7 +5,7 @@ module.exports = {
         "page_objects_path": ["page-objects"],
 
         "test_workers": {
-          "enabled": false,
+          "enabled": true,
           "workers": "auto"
         },
       
