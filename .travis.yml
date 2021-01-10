@@ -15,4 +15,5 @@ addons:
 script:
   #    - npm test
   - nightwatch -c nightwatch.browserstack.conf.js
+  - npm install -g @lhci/cli
   - lhci autorun
