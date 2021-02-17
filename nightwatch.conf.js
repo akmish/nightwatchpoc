@@ -24,9 +24,9 @@ module.exports = {
             },
             "desiredCapabilities": {
               "browserName": "chrome"
-              // 'chromeOptions': {
-              //  // "args": ["--headless"]
-              // }
+                'chromeOptions': {
+                    "args": ["--headless"]
+                }
             }
           },
           "firefox" : {
