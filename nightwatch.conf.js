@@ -23,8 +23,8 @@ module.exports = {
               "port": 9515,
             },
             "desiredCapabilities": {
-              "browserName": "chrome"
-                'chromeOptions': {
+              "browserName": "chrome",
+              'chromeOptions': {
                     "args": ["--headless"]
                 }
             }
