@@ -10,5 +10,6 @@
       <li> Parallel execution </li>
   </ul>
  </p>
+  [![Node.js CI](https://github.com/akmish/nightwatchpoc/actions/workflows/build-scheduler.js.yml/badge.svg)](https://github.com/akmish/nightwatchpoc/actions/workflows/build-scheduler.js.yml)
 </body>
 </html>
