@@ -6,7 +6,7 @@ const config = {
         'start_process': false,
         'host': 'hub-cloud.browserstack.com',
         'port': 80
-    },
+    },  
 };
 
 config.test_settings.default = {

@@ -6,13 +6,23 @@
   "scripts": {
     "debug": "node --inspect-brk node_modules/.bin/nightwatch",
     "test": "nightwatch",
-    "test:browserstack": "nightwatch -c nightwatch.browserstack.conf.js"
+    "test:browserstack": "nightwatch -c nightwatch.browserstack.conf.js",
+    "cucumber:e2e:test": "mkdirp report && cucumber-js --require cucumber.conf.js --require step-definitions --format @cucumber/pretty-formatter --format json:report/cucumber_report.json --publish-quiet",
+    "cucumber:parallel:test": "./node_modules/.bin/cucumber-js --require cucumber.conf.js --require step-definitions --format @cucumber/pretty-formatter --format json:report/cucumber_report.json --parallel 2 --publish-quiet"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "@cucumber/pretty-formatter": "^1.0.0-alpha.0",
+    "babel-register": "^6.26.0",
     "chromedriver": "^87.0.4",
-    "nightwatch": "^1.4.3"
+    "cucumber": "^7.0.0-rc.0",
+    "cucumber-html-reporter": "^5.3.0",
+    "mkdirp": "^1.0.4",
+    "nightwatch": "^1.4.3",
+    "nightwatch-api": "^3.0.1"
   },
   "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0",
     "dotenv": "^7.0.0",
     "geckodriver": "^1.21.1"
   },

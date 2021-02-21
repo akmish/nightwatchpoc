@@ -1,0 +1,244 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "google-search;searching-google",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Searching Google",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "I open Google's search page",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 873000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "the title is \"Google Advanced Search\"",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 8000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "the Google search form exists",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 18000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "add \"Bill Gates\" in searchbox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 56000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "add \"Thai\" in languageTestBox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 93000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "add \"Week\" in lastUpdateTestBox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 63000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "click on search button",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchAllWords.js:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2152000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "google-search",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Google Search",
+    "tags": [],
+    "uri": "features/googleAdvanceSearchAllWords.feature"
+  },
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "google-search;searching-google",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Searching Google",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "Is open Google's search page",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 503000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "thes title is \"Google Advanced Search\"",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 5000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "thes Google search form exists",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:14"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 20000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "adds \"Bill Gates\" in searchbox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:18"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "adds \"Thai\" in languageTestBox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:22"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 70000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "adds \"Week\" in lastUpdateTestBox",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:28"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 78000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "clicks on search button",
+            "match": {
+              "location": "step-definitions/googleAdvanceSearchEitherWord.js:34"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 946000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 0
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "google-search",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Google Search",
+    "tags": [],
+    "uri": "features/googleAdvanceSearchEitherWord.feature"
+  }
+]
