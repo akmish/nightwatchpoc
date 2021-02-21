@@ -13,7 +13,5 @@ cache: npm
 addons:
   chrome: stable
 script:
-  #    - npm test
-  - nightwatch -c nightwatch.browserstack.conf.js
-  - npm install -g @lhci/cli
-  - lhci autorun
+      - npm run test
+#     - nightwatch -c nightwatch.browserstack.conf.js
