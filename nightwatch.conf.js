@@ -20,7 +20,7 @@ module.exports = {
       webdriver: {
         start_process: true,
         server_path: "node_modules/.bin/chromedriver",
-        port: 9515,
+        port: 9517,
       },
       desiredCapabilities: {
         browserName: "chrome",
