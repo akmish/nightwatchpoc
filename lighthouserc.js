@@ -22,11 +22,11 @@ module.exports = {
         "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
         "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
       ],
-      numberOfRuns: 1,
+      numberOfRuns: 3,
       assert: {
         preset: "lighthouse:recommended",
         assertions: {
-          "categories:performance": ["error", { minScore: 0.25 }],
+          "categories:performance": ["warn", { minScore: 0.25 }],
           "categories:accessibility": ["warn", { minScore: 0.55 }],
         },
       },
