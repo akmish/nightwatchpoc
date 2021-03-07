@@ -4,6 +4,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -19,6 +21,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -32,9 +36,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.79,
+    "actual": 0.86,
     "values": [
-      0.79
+      0.85,
+      0.86,
+      0.29
     ],
     "operator": ">=",
     "passed": false,
@@ -49,6 +55,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -64,6 +72,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -78,6 +88,8 @@
     "expected": 0.9,
     "actual": 0.09,
     "values": [
+      0.09,
+      0.09,
       0.09
     ],
     "operator": ">=",
@@ -93,6 +105,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -108,6 +122,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -121,9 +137,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.26,
+    "actual": 0.43,
     "values": [
-      0.26
+      0.32,
+      0.27,
+      0.43
     ],
     "operator": ">=",
     "passed": false,
@@ -136,9 +154,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.29,
+    "actual": 0.46,
     "values": [
-      0.29
+      0.39,
+      0.38,
+      0.46
     ],
     "operator": ">=",
     "passed": false,
@@ -151,9 +171,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.18,
+    "actual": 0.32,
     "values": [
-      0.18
+      0.25,
+      0.25,
+      0.32
     ],
     "operator": ">=",
     "passed": false,
@@ -168,6 +190,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -183,6 +207,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -198,6 +224,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -213,6 +241,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -228,6 +258,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -243,6 +275,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -256,8 +290,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.03,
+    "actual": 0.09,
     "values": [
+      0.06,
+      0.09,
       0.03
     ],
     "operator": ">=",
@@ -273,6 +309,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -287,6 +325,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -300,24 +340,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.15,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "load-fast-enough-for-pwa",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
-    "auditTitle": "Page load is not fast enough on mobile networks",
-    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.04,
-    "values": [
-      0.04
+      0.11,
+      0.15,
+      0.01
     ],
     "operator": ">=",
     "passed": false,
@@ -332,6 +359,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -345,9 +374,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.08,
     "values": [
-      0
+      0.02,
+      0.08,
+      0.03
     ],
     "operator": ">=",
     "passed": false,
@@ -362,6 +393,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -377,21 +410,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "no-unload-listeners",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
-    "auditTitle": "Registers an `unload` listener",
-    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -405,9 +425,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 3,
+    "actual": 2,
     "values": [
-      3
+      2,
+      3,
+      2
     ],
     "operator": "<=",
     "passed": false,
@@ -422,6 +444,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -437,6 +461,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -452,6 +478,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -465,9 +493,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.01,
+    "actual": 0.05,
     "values": [
-      0.01
+      0.02,
+      0.05,
+      0.05
     ],
     "operator": ">=",
     "passed": false,
@@ -482,6 +512,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -497,6 +529,8 @@
     "expected": 0.9,
     "actual": 0.4,
     "values": [
+      0.4,
+      0.4,
       0.4
     ],
     "operator": ">=",
@@ -512,6 +546,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -527,6 +563,8 @@
     "expected": 0.9,
     "actual": 0.02,
     "values": [
+      0.02,
+      0.02,
       0.02
     ],
     "operator": ">=",
@@ -542,6 +580,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -557,6 +597,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -572,6 +614,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -585,9 +629,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 77,
+    "actual": 75,
     "values": [
-      77
+      75,
+      75,
+      75
     ],
     "operator": "<=",
     "passed": false,
@@ -600,9 +646,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 3,
+    "actual": 2,
     "values": [
-      3
+      2,
+      3,
+      5
     ],
     "operator": "<=",
     "passed": false,
@@ -617,6 +665,8 @@
     "expected": 0,
     "actual": 13,
     "values": [
+      13,
+      13,
       13
     ],
     "operator": "<=",
@@ -632,6 +682,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -647,6 +699,8 @@
     "expected": 0,
     "actual": 16,
     "values": [
+      16,
+      16,
       16
     ],
     "operator": "<=",
@@ -662,6 +716,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -677,6 +733,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -690,9 +748,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.15,
+    "actual": 0.33,
     "values": [
-      0.15
+      0.29,
+      0.3,
+      0.33
     ],
     "operator": ">=",
     "passed": false,
@@ -707,6 +767,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -719,23 +781,11 @@
   },
   {
     "name": "minScore",
-    "expected": 0.25,
-    "actual": 0.2,
-    "values": [
-      0.2
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditProperty": "performance",
-    "auditId": "categories",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/"
-  },
-  {
-    "name": "minScore",
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -751,6 +801,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -764,8 +816,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.74,
+    "actual": 0.84,
     "values": [
+      0.84,
+      0.8,
       0.74
     ],
     "operator": ">=",
@@ -781,6 +835,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -796,6 +852,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -810,6 +868,8 @@
     "expected": 0.9,
     "actual": 0.05,
     "values": [
+      0.05,
+      0.05,
       0.05
     ],
     "operator": ">=",
@@ -825,6 +885,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -840,6 +902,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -853,9 +917,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.28,
+    "actual": 0.4,
     "values": [
-      0.28
+      0.4,
+      0.38,
+      0.39
     ],
     "operator": ">=",
     "passed": false,
@@ -868,9 +934,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.18,
+    "actual": 0.48,
     "values": [
-      0.18
+      0.48,
+      0.47,
+      0.45
     ],
     "operator": ">=",
     "passed": false,
@@ -883,9 +951,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.31,
     "values": [
-      0.23
+      0.28,
+      0.27,
+      0.31
     ],
     "operator": ">=",
     "passed": false,
@@ -900,6 +970,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -915,6 +987,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -930,6 +1004,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -945,6 +1021,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -960,6 +1038,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -975,6 +1055,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -989,6 +1071,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1004,6 +1088,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1017,8 +1103,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.07,
+    "actual": 0.11,
     "values": [
+      0.11,
+      0.1,
       0.07
     ],
     "operator": ">=",
@@ -1034,6 +1122,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1047,9 +1137,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.01,
+    "actual": 0.13,
     "values": [
-      0.01
+      0.01,
+      0,
+      0.13
     ],
     "operator": ">=",
     "passed": false,
@@ -1064,6 +1156,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1079,6 +1173,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1094,6 +1190,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1109,6 +1207,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1124,6 +1224,8 @@
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      7,
       3
     ],
     "operator": "<=",
@@ -1139,6 +1241,8 @@
     "expected": 0,
     "actual": 2,
     "values": [
+      2,
+      2,
       2
     ],
     "operator": "<=",
@@ -1154,6 +1258,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1169,6 +1275,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1182,9 +1290,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.02,
     "values": [
-      0
+      0.01,
+      0.01,
+      0.02
     ],
     "operator": ">=",
     "passed": false,
@@ -1199,6 +1309,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1214,6 +1326,8 @@
     "expected": 0.9,
     "actual": 0.67,
     "values": [
+      0.67,
+      0.67,
       0.67
     ],
     "operator": ">=",
@@ -1229,6 +1343,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1244,6 +1360,8 @@
     "expected": 0.9,
     "actual": 0.02,
     "values": [
+      0.02,
+      0.02,
       0.02
     ],
     "operator": ">=",
@@ -1259,6 +1377,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1274,6 +1394,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -1289,6 +1411,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -1302,9 +1426,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 97,
+    "actual": 95,
     "values": [
-      97
+      95,
+      96,
+      95
     ],
     "operator": "<=",
     "passed": false,
@@ -1319,6 +1445,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1334,6 +1462,8 @@
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      3,
       3
     ],
     "operator": "<=",
@@ -1349,6 +1479,8 @@
     "expected": 0,
     "actual": 6,
     "values": [
+      6,
+      6,
       6
     ],
     "operator": "<=",
@@ -1364,6 +1496,8 @@
     "expected": 0,
     "actual": 12,
     "values": [
+      12,
+      12,
       12
     ],
     "operator": "<=",
@@ -1379,6 +1513,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1394,6 +1530,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1409,7 +1547,9 @@
     "expected": 0.9,
     "actual": 0.21,
     "values": [
-      0.21
+      0.21,
+      0.21,
+      0.16
     ],
     "operator": ">=",
     "passed": false,
@@ -1424,6 +1564,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1439,6 +1581,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1454,6 +1598,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1469,6 +1615,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1484,6 +1632,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1498,6 +1648,8 @@
     "expected": 0.9,
     "actual": 0.68,
     "values": [
+      0.68,
+      0.68,
       0.68
     ],
     "operator": ">=",
@@ -1513,6 +1665,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1528,6 +1682,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1541,9 +1697,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.37,
+    "actual": 0.53,
     "values": [
-      0.37
+      0.44,
+      0.22,
+      0.53
     ],
     "operator": ">=",
     "passed": false,
@@ -1556,9 +1714,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.43,
+    "actual": 0.54,
     "values": [
-      0.43
+      0.23,
+      0.54,
+      0.51
     ],
     "operator": ">=",
     "passed": false,
@@ -1571,9 +1731,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.25,
+    "actual": 0.39,
     "values": [
-      0.25
+      0.33,
+      0.22,
+      0.39
     ],
     "operator": ">=",
     "passed": false,
@@ -1588,6 +1750,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1603,6 +1767,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1618,6 +1784,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1633,6 +1801,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1646,9 +1816,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
+    "actual": 0.28,
     "values": [
-      0.04
+      0.03,
+      0.07,
+      0.28
     ],
     "operator": ">=",
     "passed": false,
@@ -1663,6 +1835,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -1677,6 +1851,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1690,9 +1866,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.2,
+    "actual": 0.27,
     "values": [
-      0.2
+      0.27,
+      0.24,
+      0.24
     ],
     "operator": ">=",
     "passed": false,
@@ -1707,6 +1885,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1720,9 +1900,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.63,
     "values": [
-      0
+      0.06,
+      0.08,
+      0.63
     ],
     "operator": ">=",
     "passed": false,
@@ -1737,6 +1919,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1752,6 +1936,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1767,6 +1953,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1782,6 +1970,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -1797,6 +1987,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -1812,6 +2004,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1827,6 +2021,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1840,9 +2036,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.1,
+    "actual": 0.16,
     "values": [
-      0.1
+      0.09,
+      0.14,
+      0.16
     ],
     "operator": ">=",
     "passed": false,
@@ -1857,6 +2055,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1872,6 +2072,8 @@
     "expected": 0.9,
     "actual": 0.38,
     "values": [
+      0.38,
+      0.38,
       0.38
     ],
     "operator": ">=",
@@ -1887,6 +2089,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1902,6 +2106,8 @@
     "expected": 0.9,
     "actual": 0.05,
     "values": [
+      0.05,
+      0.05,
       0.05
     ],
     "operator": ">=",
@@ -1917,6 +2123,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -1932,6 +2140,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -1947,6 +2157,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -1960,9 +2172,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 60,
+    "actual": 58,
     "values": [
-      60
+      59,
+      58,
+      58
     ],
     "operator": "<=",
     "passed": false,
@@ -1975,9 +2189,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 3,
+    "actual": 2,
     "values": [
-      3
+      3,
+      3,
+      2
     ],
     "operator": "<=",
     "passed": false,
@@ -1988,25 +2204,12 @@
     "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
   },
   {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.38,
-    "values": [
-      0.38
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "uses-rel-preload",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
-    "auditTitle": "Preload key requests",
-    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
-  },
-  {
     "name": "maxLength",
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      3,
       3
     ],
     "operator": "<=",
@@ -2022,6 +2225,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -2037,6 +2242,8 @@
     "expected": 0,
     "actual": 10,
     "values": [
+      10,
+      10,
       10
     ],
     "operator": "<=",
@@ -2052,6 +2259,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2067,6 +2276,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2080,9 +2291,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.3,
+    "actual": 0.36,
     "values": [
-      0.3
+      0.25,
+      0.36,
+      0.27
     ],
     "operator": ">=",
     "passed": false,
@@ -2097,6 +2310,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2112,6 +2327,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2127,6 +2344,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2140,23 +2359,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.49,
-    "values": [
-      0.49
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "bootup-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
-    "auditTitle": "Reduce JavaScript execution time",
-    "auditDocumentationLink": "https://web.dev/bootup-time/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2172,6 +2378,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2184,23 +2392,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.47,
-    "values": [
-      0.47
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "cumulative-layout-shift",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
-    "auditTitle": "Cumulative Layout Shift",
-    "auditDocumentationLink": "https://web.dev/cls/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0.87,
     "values": [
+      0.87,
+      0.87,
       0.87
     ],
     "operator": ">=",
@@ -2216,6 +2411,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2231,6 +2428,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2244,9 +2443,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.5,
+    "actual": 0.49,
     "values": [
-      0.5
+      0.42,
+      0.24,
+      0.49
     ],
     "operator": ">=",
     "passed": false,
@@ -2259,9 +2460,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.46,
+    "actual": 0.58,
     "values": [
-      0.46
+      0.58,
+      0.23,
+      0.49
     ],
     "operator": ">=",
     "passed": false,
@@ -2274,9 +2477,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.39,
+    "actual": 0.45,
     "values": [
-      0.39
+      0.34,
+      0.24,
+      0.45
     ],
     "operator": ">=",
     "passed": false,
@@ -2291,6 +2496,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2306,6 +2513,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2321,6 +2530,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2336,6 +2547,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2349,9 +2562,28 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.02,
+    "actual": 0,
     "values": [
-      0.02
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.15,
+    "values": [
+      0.14,
+      0.06,
+      0.15
     ],
     "operator": ">=",
     "passed": false,
@@ -2366,6 +2598,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -2380,6 +2614,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2393,9 +2629,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
+    "actual": 0.31,
     "values": [
-      0.04
+      0.31,
+      0.01,
+      0.01
     ],
     "operator": ">=",
     "passed": false,
@@ -2410,6 +2648,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2423,23 +2663,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.06,
-    "values": [
-      0.06
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "max-potential-fid",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
-    "auditTitle": "Max Potential First Input Delay",
-    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2455,6 +2682,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -2470,6 +2699,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -2485,21 +2716,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "server-response-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
-    "auditTitle": "Reduce initial server response time",
-    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2513,9 +2731,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.38,
     "values": [
-      0.23
+      0.19,
+      0.06,
+      0.38
     ],
     "operator": ">=",
     "passed": false,
@@ -2530,6 +2750,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2545,6 +2767,8 @@
     "expected": 0.9,
     "actual": 0.45,
     "values": [
+      0.45,
+      0.45,
       0.45
     ],
     "operator": ">=",
@@ -2560,6 +2784,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2575,6 +2801,8 @@
     "expected": 0.9,
     "actual": 0.06,
     "values": [
+      0.06,
+      0.05,
       0.06
     ],
     "operator": ">=",
@@ -2590,6 +2818,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2605,6 +2835,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -2620,6 +2852,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -2633,9 +2867,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 52,
+    "actual": 49,
     "values": [
-      52
+      51,
+      49,
+      49
     ],
     "operator": "<=",
     "passed": false,
@@ -2648,9 +2884,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 5,
+    "actual": 2,
     "values": [
-      5
+      2,
+      5,
+      4
     ],
     "operator": "<=",
     "passed": false,
@@ -2663,9 +2901,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.2,
+    "actual": 0.15,
     "values": [
-      0.2
+      0.15,
+      0.13,
+      0.04
     ],
     "operator": ">=",
     "passed": false,
@@ -2680,6 +2920,8 @@
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      3,
       3
     ],
     "operator": "<=",
@@ -2695,6 +2937,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -2710,6 +2954,8 @@
     "expected": 0,
     "actual": 7,
     "values": [
+      7,
+      7,
       7
     ],
     "operator": "<=",
@@ -2725,6 +2971,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2740,6 +2988,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2755,6 +3005,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2768,9 +3020,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.3,
+    "actual": 0.39,
     "values": [
-      0.3
+      0.39,
+      0.28,
+      0.28
     ],
     "operator": ">=",
     "passed": false,
@@ -2785,6 +3039,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2800,6 +3056,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2815,6 +3073,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2828,23 +3088,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.52,
-    "values": [
-      0.52
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "bootup-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
-    "auditTitle": "Reduce JavaScript execution time",
-    "auditDocumentationLink": "https://web.dev/bootup-time/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2860,6 +3107,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2874,6 +3123,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2889,6 +3140,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2902,9 +3155,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.43,
+    "actual": 0.45,
     "values": [
-      0.43
+      0.45,
+      0.35,
+      0.26
     ],
     "operator": ">=",
     "passed": false,
@@ -2917,9 +3172,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.38,
+    "actual": 0.54,
     "values": [
-      0.38
+      0.54,
+      0.22,
+      0.25
     ],
     "operator": ">=",
     "passed": false,
@@ -2932,9 +3189,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.3,
+    "actual": 0.45,
     "values": [
-      0.3
+      0.45,
+      0.29,
+      0.26
     ],
     "operator": ">=",
     "passed": false,
@@ -2949,6 +3208,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2964,6 +3225,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2979,6 +3242,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -2994,6 +3259,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3007,9 +3274,28 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.02,
+    "actual": 0,
     "values": [
-      0.02
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.24,
+    "values": [
+      0.14,
+      0.24,
+      0.06
     ],
     "operator": ">=",
     "passed": false,
@@ -3024,6 +3310,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -3038,6 +3326,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3051,24 +3341,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.35,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "load-fast-enough-for-pwa",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
-    "auditTitle": "Page load is not fast enough on mobile networks",
-    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.04,
-    "values": [
-      0.04
+      0.31,
+      0.35,
+      0.02
     ],
     "operator": ">=",
     "passed": false,
@@ -3083,6 +3360,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3096,9 +3375,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.01,
+    "actual": 0.82,
     "values": [
-      0.01
+      0.82,
+      0.21,
+      0.1
     ],
     "operator": ">=",
     "passed": false,
@@ -3113,6 +3394,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3128,6 +3411,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3143,6 +3428,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3158,6 +3445,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3173,6 +3462,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3186,9 +3477,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.14,
+    "actual": 0.36,
     "values": [
-      0.14
+      0.3,
+      0.36,
+      0.32
     ],
     "operator": ">=",
     "passed": false,
@@ -3203,6 +3496,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3218,6 +3513,8 @@
     "expected": 0.9,
     "actual": 0.49,
     "values": [
+      0.49,
+      0.49,
       0.49
     ],
     "operator": ">=",
@@ -3233,6 +3530,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3248,6 +3547,8 @@
     "expected": 0.9,
     "actual": 0.06,
     "values": [
+      0.06,
+      0.06,
       0.06
     ],
     "operator": ">=",
@@ -3263,6 +3564,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3278,6 +3581,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3293,6 +3598,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -3306,9 +3613,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 49,
+    "actual": 47,
     "values": [
-      49
+      48,
+      48,
+      47
     ],
     "operator": "<=",
     "passed": false,
@@ -3321,8 +3630,10 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 5,
+    "actual": 2,
     "values": [
+      2,
+      2,
       5
     ],
     "operator": "<=",
@@ -3334,10 +3645,29 @@
     "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
   },
   {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.18,
+    "values": [
+      0.18,
+      0,
+      0.18
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
     "name": "maxLength",
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      3,
       3
     ],
     "operator": "<=",
@@ -3353,6 +3683,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3368,6 +3700,8 @@
     "expected": 0,
     "actual": 7,
     "values": [
+      7,
+      7,
       7
     ],
     "operator": "<=",
@@ -3383,6 +3717,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3398,6 +3734,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3413,6 +3751,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3426,9 +3766,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.25,
+    "actual": 0.36,
     "values": [
-      0.25
+      0.36,
+      0.27,
+      0.29
     ],
     "operator": ">=",
     "passed": false,
@@ -3443,6 +3785,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3458,6 +3802,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3473,6 +3819,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3486,23 +3834,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.75,
-    "values": [
-      0.75
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "bootup-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
-    "auditTitle": "Reduce JavaScript execution time",
-    "auditDocumentationLink": "https://web.dev/bootup-time/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3518,6 +3853,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3532,6 +3869,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3547,6 +3886,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3560,9 +3901,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.36,
+    "actual": 0.51,
     "values": [
-      0.36
+      0.42,
+      0.51,
+      0.43
     ],
     "operator": ">=",
     "passed": false,
@@ -3575,9 +3918,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.55,
     "values": [
-      0.23
+      0.55,
+      0.55,
+      0.48
     ],
     "operator": ">=",
     "passed": false,
@@ -3590,9 +3935,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.28,
+    "actual": 0.36,
     "values": [
-      0.28
+      0.31,
+      0.36,
+      0.3
     ],
     "operator": ">=",
     "passed": false,
@@ -3607,6 +3954,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3622,6 +3971,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3637,6 +3988,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3652,6 +4005,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3667,6 +4022,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3680,9 +4037,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
+    "actual": 0.16,
     "values": [
-      0.04
+      0.07,
+      0.16,
+      0.15
     ],
     "operator": ">=",
     "passed": false,
@@ -3697,6 +4056,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -3711,6 +4072,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3724,24 +4087,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.27,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "load-fast-enough-for-pwa",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
-    "auditTitle": "Page load is not fast enough on mobile networks",
-    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.14,
-    "values": [
-      0.14
+      0.02,
+      0.21,
+      0.27
     ],
     "operator": ">=",
     "passed": false,
@@ -3756,6 +4106,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3769,9 +4121,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
+    "actual": 0.85,
     "values": [
-      0.04
+      0.64,
+      0.64,
+      0.85
     ],
     "operator": ">=",
     "passed": false,
@@ -3786,21 +4140,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "no-unload-listeners",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
-    "auditTitle": "Registers an `unload` listener",
-    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3816,6 +4157,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3831,6 +4174,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3846,21 +4191,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "server-response-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
-    "auditTitle": "Reduce initial server response time",
-    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3874,9 +4206,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.16,
+    "actual": 0.39,
     "values": [
-      0.16
+      0.21,
+      0.29,
+      0.39
     ],
     "operator": ">=",
     "passed": false,
@@ -3891,6 +4225,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3906,6 +4242,8 @@
     "expected": 0.9,
     "actual": 0.3,
     "values": [
+      0.3,
+      0.3,
       0.3
     ],
     "operator": ">=",
@@ -3921,6 +4259,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3936,6 +4276,8 @@
     "expected": 0.9,
     "actual": 0.05,
     "values": [
+      0.05,
+      0.05,
       0.05
     ],
     "operator": ">=",
@@ -3951,6 +4293,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -3966,6 +4310,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -3981,6 +4327,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -3994,9 +4342,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 50,
+    "actual": 46,
     "values": [
-      50
+      46,
+      47,
+      47
     ],
     "operator": "<=",
     "passed": false,
@@ -4009,9 +4359,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 3,
+    "actual": 2,
     "values": [
-      3
+      4,
+      2,
+      2
     ],
     "operator": "<=",
     "passed": false,
@@ -4022,10 +4374,29 @@
     "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
   },
   {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.19,
+    "values": [
+      0.19,
+      0.16,
+      0.16
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
     "name": "maxLength",
     "expected": 0,
     "actual": 4,
     "values": [
+      4,
+      4,
       4
     ],
     "operator": "<=",
@@ -4041,6 +4412,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -4056,6 +4429,8 @@
     "expected": 0,
     "actual": 9,
     "values": [
+      9,
+      9,
       9
     ],
     "operator": "<=",
@@ -4071,6 +4446,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4086,6 +4463,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4101,6 +4480,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4114,9 +4495,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.27,
+    "actual": 0.33,
     "values": [
-      0.27
+      0.33,
+      0.27,
+      0.24
     ],
     "operator": ">=",
     "passed": false,
@@ -4131,6 +4514,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4146,6 +4531,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4161,6 +4548,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4174,23 +4563,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.85,
-    "values": [
-      0.85
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "bootup-time",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
-    "auditTitle": "Reduce JavaScript execution time",
-    "auditDocumentationLink": "https://web.dev/bootup-time/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4206,6 +4582,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4221,6 +4599,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4235,6 +4615,8 @@
     "expected": 0.9,
     "actual": 0.27,
     "values": [
+      0.27,
+      0.27,
       0.27
     ],
     "operator": ">=",
@@ -4250,6 +4632,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4265,6 +4649,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4278,9 +4664,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.41,
+    "actual": 0.46,
     "values": [
-      0.41
+      0.25,
+      0.28,
+      0.46
     ],
     "operator": ">=",
     "passed": false,
@@ -4293,9 +4681,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.53,
     "values": [
-      0.23
+      0.53,
+      0.48,
+      0.48
     ],
     "operator": ">=",
     "passed": false,
@@ -4308,9 +4698,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.26,
+    "actual": 0.35,
     "values": [
-      0.26
+      0.25,
+      0.27,
+      0.35
     ],
     "operator": ">=",
     "passed": false,
@@ -4325,6 +4717,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4340,6 +4734,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4355,6 +4751,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4370,6 +4768,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4385,6 +4785,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4398,8 +4800,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.05,
+    "actual": 0.06,
     "values": [
+      0.06,
+      0.05,
       0.05
     ],
     "operator": ">=",
@@ -4415,6 +4819,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -4429,6 +4835,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4442,24 +4850,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.25,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "load-fast-enough-for-pwa",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
-    "auditTitle": "Page load is not fast enough on mobile networks",
-    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.08,
-    "values": [
-      0.08
+      0.25,
+      0.01,
+      0.01
     ],
     "operator": ">=",
     "passed": false,
@@ -4474,6 +4869,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4487,9 +4884,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.11,
     "values": [
-      0
+      0.05,
+      0.11,
+      0.05
     ],
     "operator": ">=",
     "passed": false,
@@ -4504,6 +4903,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4519,21 +4920,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "no-unload-listeners",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
-    "auditTitle": "Registers an `unload` listener",
-    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4549,6 +4937,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -4564,6 +4954,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -4579,6 +4971,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4594,6 +4988,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4607,9 +5003,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
+    "actual": 0.06,
     "values": [
-      0.04
+      0.06,
+      0.03,
+      0.05
     ],
     "operator": ">=",
     "passed": false,
@@ -4624,6 +5022,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4639,6 +5039,8 @@
     "expected": 0.9,
     "actual": 0.45,
     "values": [
+      0.45,
+      0.45,
       0.45
     ],
     "operator": ">=",
@@ -4654,6 +5056,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4669,6 +5073,8 @@
     "expected": 0.9,
     "actual": 0.05,
     "values": [
+      0.05,
+      0.05,
       0.05
     ],
     "operator": ">=",
@@ -4684,6 +5090,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4699,6 +5107,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -4714,6 +5124,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -4727,9 +5139,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 71,
+    "actual": 67,
     "values": [
-      71
+      68,
+      67,
+      67
     ],
     "operator": "<=",
     "passed": false,
@@ -4744,7 +5158,9 @@
     "expected": 0,
     "actual": 3,
     "values": [
-      3
+      3,
+      5,
+      4
     ],
     "operator": "<=",
     "passed": false,
@@ -4755,10 +5171,29 @@
     "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
   },
   {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.19,
+    "values": [
+      0.14,
+      0.19,
+      0.18
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
     "name": "maxLength",
     "expected": 0,
     "actual": 3,
     "values": [
+      3,
+      3,
       3
     ],
     "operator": "<=",
@@ -4774,6 +5209,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -4789,6 +5226,8 @@
     "expected": 0,
     "actual": 8,
     "values": [
+      8,
+      8,
       8
     ],
     "operator": "<=",
@@ -4804,6 +5243,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4819,6 +5260,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4832,9 +5275,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.36,
     "values": [
-      0.23
+      0.36,
+      0.32,
+      0.25
     ],
     "operator": ">=",
     "passed": false,
@@ -4849,6 +5294,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4861,23 +5308,11 @@
   },
   {
     "name": "minScore",
-    "expected": 0.25,
-    "actual": 0.22,
-    "values": [
-      0.22
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditProperty": "performance",
-    "auditId": "categories",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page"
-  },
-  {
-    "name": "minScore",
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4893,6 +5328,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4906,9 +5343,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.84,
+    "actual": 0.89,
     "values": [
-      0.84
+      0.89,
+      0.27,
+      0.29
     ],
     "operator": ">=",
     "passed": false,
@@ -4923,6 +5362,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4938,6 +5379,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4952,6 +5395,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4967,6 +5412,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -4980,9 +5427,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.37,
+    "actual": 0.36,
     "values": [
-      0.37
+      0.36,
+      0.2,
+      0.36
     ],
     "operator": ">=",
     "passed": false,
@@ -4995,9 +5444,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.32,
+    "actual": 0.5,
     "values": [
-      0.32
+      0.34,
+      0.16,
+      0.5
     ],
     "operator": ">=",
     "passed": false,
@@ -5010,9 +5461,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.24,
+    "actual": 0.34,
     "values": [
-      0.24
+      0.28,
+      0.2,
+      0.34
     ],
     "operator": ">=",
     "passed": false,
@@ -5027,6 +5480,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5042,6 +5497,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5057,6 +5514,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5072,6 +5531,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5087,6 +5548,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5100,9 +5563,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.03,
+    "actual": 0.04,
     "values": [
-      0.03
+      0.04,
+      0.04,
+      0.01
     ],
     "operator": ">=",
     "passed": false,
@@ -5117,6 +5582,8 @@
     "expected": 0,
     "actual": 6,
     "values": [
+      6,
+      6,
       6
     ],
     "operator": "<=",
@@ -5131,6 +5598,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5144,24 +5613,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.25,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "load-fast-enough-for-pwa",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
-    "auditTitle": "Page load is not fast enough on mobile networks",
-    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0.11,
-    "values": [
-      0.11
+      0.25,
+      0.01,
+      0.01
     ],
     "operator": ">=",
     "passed": false,
@@ -5176,6 +5632,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5189,9 +5647,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0,
+    "actual": 0.2,
     "values": [
-      0
+      0.09,
+      0.08,
+      0.2
     ],
     "operator": ">=",
     "passed": false,
@@ -5206,21 +5666,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
-      0
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "no-unload-listeners",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
-    "auditTitle": "Registers an `unload` listener",
-    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
-    "actual": 0,
-    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5236,6 +5683,8 @@
     "expected": 0,
     "actual": 2,
     "values": [
+      2,
+      2,
       2
     ],
     "operator": "<=",
@@ -5251,6 +5700,8 @@
     "expected": 0,
     "actual": 2,
     "values": [
+      2,
+      2,
       2
     ],
     "operator": "<=",
@@ -5266,6 +5717,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5281,6 +5734,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5294,9 +5749,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.26,
+    "actual": 0.34,
     "values": [
-      0.26
+      0.29,
+      0.28,
+      0.34
     ],
     "operator": ">=",
     "passed": false,
@@ -5311,6 +5768,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5326,6 +5785,8 @@
     "expected": 0.9,
     "actual": 0.59,
     "values": [
+      0.59,
+      0.59,
       0.59
     ],
     "operator": ">=",
@@ -5341,6 +5802,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5356,6 +5819,8 @@
     "expected": 0.9,
     "actual": 0.04,
     "values": [
+      0.04,
+      0.04,
       0.04
     ],
     "operator": ">=",
@@ -5371,6 +5836,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5386,6 +5853,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -5399,9 +5868,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 6,
+    "actual": 5,
     "values": [
-      6
+      6,
+      5,
+      5
     ],
     "operator": "<=",
     "passed": false,
@@ -5414,9 +5885,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 53,
+    "actual": 47,
     "values": [
-      53
+      47,
+      48,
+      48
     ],
     "operator": "<=",
     "passed": false,
@@ -5431,6 +5904,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -5446,7 +5921,9 @@
     "expected": 0,
     "actual": 3,
     "values": [
-      3
+      3,
+      4,
+      6
     ],
     "operator": "<=",
     "passed": false,
@@ -5457,10 +5934,29 @@
     "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
   },
   {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.48,
+    "values": [
+      0.48,
+      0.34,
+      0.22
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
     "name": "maxLength",
     "expected": 0,
     "actual": 4,
     "values": [
+      4,
+      4,
       4
     ],
     "operator": "<=",
@@ -5476,6 +5972,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -5491,6 +5989,8 @@
     "expected": 0,
     "actual": 8,
     "values": [
+      8,
+      8,
       8
     ],
     "operator": "<=",
@@ -5506,6 +6006,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5521,6 +6023,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5534,9 +6038,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.2,
+    "actual": 0.39,
     "values": [
-      0.2
+      0.22,
+      0.24,
+      0.39
     ],
     "operator": ">=",
     "passed": false,
@@ -5551,6 +6057,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5563,23 +6071,11 @@
   },
   {
     "name": "minScore",
-    "expected": 0.25,
-    "actual": 0.24,
-    "values": [
-      0.24
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditProperty": "performance",
-    "auditId": "categories",
-    "level": "error",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441"
-  },
-  {
-    "name": "minScore",
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5595,6 +6091,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5610,6 +6108,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5625,6 +6125,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5639,6 +6141,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5654,6 +6158,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5667,9 +6173,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.34,
+    "actual": 0.42,
     "values": [
-      0.34
+      0.4,
+      0.38,
+      0.42
     ],
     "operator": ">=",
     "passed": false,
@@ -5682,9 +6190,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.2,
+    "actual": 0.52,
     "values": [
-      0.2
+      0.52,
+      0.48,
+      0.22
     ],
     "operator": ">=",
     "passed": false,
@@ -5697,9 +6207,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.25,
+    "actual": 0.31,
     "values": [
-      0.25
+      0.29,
+      0.29,
+      0.31
     ],
     "operator": ">=",
     "passed": false,
@@ -5714,6 +6226,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5729,6 +6243,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5744,6 +6260,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5759,6 +6277,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5774,6 +6294,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5787,9 +6309,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.03,
+    "actual": 0.15,
     "values": [
-      0.03
+      0,
+      0.09,
+      0.15
     ],
     "operator": ">=",
     "passed": false,
@@ -5804,6 +6328,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -5818,6 +6344,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5833,6 +6361,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5846,9 +6376,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.25,
+    "actual": 0.29,
     "values": [
-      0.25
+      0.24,
+      0.26,
+      0.29
     ],
     "operator": ">=",
     "passed": false,
@@ -5863,6 +6395,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5876,23 +6410,10 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.04,
-    "values": [
-      0.04
-    ],
-    "operator": ">=",
-    "passed": false,
-    "auditId": "max-potential-fid",
-    "level": "warn",
-    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
-    "auditTitle": "Max Potential First Input Delay",
-    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
-  },
-  {
-    "name": "minScore",
-    "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5908,6 +6429,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5923,6 +6446,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -5938,6 +6463,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -5953,6 +6480,25 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5966,9 +6512,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.23,
+    "actual": 0.28,
     "values": [
-      0.23
+      0.28,
+      0.18,
+      0.28
     ],
     "operator": ">=",
     "passed": false,
@@ -5983,6 +6531,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -5998,6 +6548,8 @@
     "expected": 0.9,
     "actual": 0.45,
     "values": [
+      0.45,
+      0.45,
       0.45
     ],
     "operator": ">=",
@@ -6013,6 +6565,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -6028,6 +6582,8 @@
     "expected": 0.9,
     "actual": 0.02,
     "values": [
+      0.02,
+      0.02,
       0.02
     ],
     "operator": ">=",
@@ -6043,6 +6599,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -6058,6 +6616,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -6073,6 +6633,8 @@
     "expected": 0,
     "actual": 5,
     "values": [
+      5,
+      5,
       5
     ],
     "operator": "<=",
@@ -6086,9 +6648,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 46,
+    "actual": 43,
     "values": [
-      46
+      43,
+      43,
+      43
     ],
     "operator": "<=",
     "passed": false,
@@ -6101,9 +6665,11 @@
   {
     "name": "maxLength",
     "expected": 0,
-    "actual": 3,
+    "actual": 2,
     "values": [
-      3
+      3,
+      2,
+      2
     ],
     "operator": "<=",
     "passed": false,
@@ -6118,6 +6684,8 @@
     "expected": 0,
     "actual": 4,
     "values": [
+      4,
+      4,
       4
     ],
     "operator": "<=",
@@ -6133,6 +6701,8 @@
     "expected": 0,
     "actual": 1,
     "values": [
+      1,
+      1,
       1
     ],
     "operator": "<=",
@@ -6148,6 +6718,8 @@
     "expected": 0,
     "actual": 7,
     "values": [
+      7,
+      7,
       7
     ],
     "operator": "<=",
@@ -6163,6 +6735,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -6178,6 +6752,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -6193,6 +6769,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
@@ -6206,9 +6784,11 @@
   {
     "name": "minScore",
     "expected": 0.9,
-    "actual": 0.26,
+    "actual": 0.24,
     "values": [
-      0.26
+      0.17,
+      0.24,
+      0.18
     ],
     "operator": ">=",
     "passed": false,
@@ -6223,6 +6803,8 @@
     "expected": 0.9,
     "actual": 0,
     "values": [
+      0,
+      0,
       0
     ],
     "operator": ">=",
