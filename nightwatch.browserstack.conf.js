@@ -1,13 +1,24 @@
 const baseConfig = require('./nightwatch.conf.js');
+const cuConfig = require('./cucumber.conf.js');
 
 const config = {
     ...baseConfig,
+    ...cuConfig,
     webdriver: {
         'start_process': false,
         'host': 'hub-cloud.browserstack.com',
         'port': 80
     },  
 };
+
+// const config1 = {
+//     ...cuConfig,
+//     webdriver: {
+//         'start_process': false,
+//         'host': 'hub-cloud.browserstack.com',
+//         'port': 80
+//     },  
+// };
 
 config.test_settings.default = {
     desiredCapabilities: {
@@ -38,8 +49,8 @@ config.test_settings.safari = {
     desiredCapabilities: {
         os: 'OS X',
         os_version: 'Catalina',
-        browserName: 'Chrome',
-        browser_version: '85',
+        browserName: 'safari',
+        //browser_version: '85',
         ['browserstack.local']: false
     }
 };

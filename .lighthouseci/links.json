@@ -1,5 +1,11 @@
 {
-  "https://www.google.com/": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1610408166128-97680.report.html",
-  "https://www.google.com/advanced_search": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1610408167936-91042.report.html",
-  "https://duckduckgo.com/": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1610408169098-791.report.html"
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100968708-86815.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100970301-63276.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100971905-84024.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100973697-1257.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100974989-21683.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100976706-99584.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100978252-7208.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100979708-31338.report.html",
+  "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731": "https://storage.googleapis.com/lighthouse-infrastructure.appspot.com/reports/1615100981128-65433.report.html"
 }
