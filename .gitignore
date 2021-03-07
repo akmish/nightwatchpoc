@@ -4,3 +4,4 @@ tests_output
 .vscode
 .env
 .lighthouseci
+report/
