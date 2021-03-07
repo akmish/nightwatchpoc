@@ -1,1 +1,6818 @@
-[]
+[
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.86,
+    "values": [
+      0.85,
+      0.86,
+      0.29
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "bootup-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Reduce JavaScript execution time",
+    "auditDocumentationLink": "https://web.dev/bootup-time/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.09,
+    "values": [
+      0.09,
+      0.09,
+      0.09
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Avoid an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.43,
+    "values": [
+      0.32,
+      0.27,
+      0.43
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.46,
+    "values": [
+      0.39,
+      0.38,
+      0.46
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.32,
+    "values": [
+      0.25,
+      0.25,
+      0.32
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "font-size",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Document doesn't use legible font sizes",
+    "auditDocumentationLink": "https://web.dev/font-size/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "heading-order",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Heading elements are not in a sequentially-descending order",
+    "auditDocumentationLink": "https://web.dev/heading-order/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.09,
+    "values": [
+      0.06,
+      0.09,
+      0.03
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.15,
+    "values": [
+      0.11,
+      0.15,
+      0.01
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.08,
+    "values": [
+      0.02,
+      0.08,
+      0.03
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Document does not have a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      3,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.05,
+    "values": [
+      0.02,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.4,
+    "values": [
+      0.4,
+      0.4,
+      0.4
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.02,
+    "values": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 75,
+    "values": [
+      75,
+      75,
+      75
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      3,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 13,
+    "values": [
+      13,
+      13,
+      13
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 16,
+    "values": [
+      16,
+      16,
+      16
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.33,
+    "values": [
+      0.29,
+      0.3,
+      0.33
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.84,
+    "values": [
+      0.84,
+      0.8,
+      0.74
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "bootup-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Reduce JavaScript execution time",
+    "auditDocumentationLink": "https://web.dev/bootup-time/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.05,
+    "values": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Avoid an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.4,
+    "values": [
+      0.4,
+      0.38,
+      0.39
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.48,
+    "values": [
+      0.48,
+      0.47,
+      0.45
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.31,
+    "values": [
+      0.28,
+      0.27,
+      0.31
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "load-fast-enough-for-pwa",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Page load is not fast enough on mobile networks",
+    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.11,
+    "values": [
+      0.11,
+      0.1,
+      0.07
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.13,
+    "values": [
+      0.01,
+      0,
+      0.13
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Document does not have a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "no-unload-listeners",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Registers an `unload` listener",
+    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "non-composited-animations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Avoid non-composited animations",
+    "auditDocumentationLink": "https://web.dev/non-composited-animations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      7,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      2,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.02,
+    "values": [
+      0.01,
+      0.01,
+      0.02
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.67,
+    "values": [
+      0.67,
+      0.67,
+      0.67
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.02,
+    "values": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 95,
+    "values": [
+      95,
+      96,
+      95
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-passive-event-listeners",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Does not use passive listeners to improve scrolling performance",
+    "auditDocumentationLink": "https://web.dev/uses-passive-event-listeners/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      3,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 6,
+    "values": [
+      6,
+      6,
+      6
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 12,
+    "values": [
+      12,
+      12,
+      12
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.21,
+    "values": [
+      0.21,
+      0.21,
+      0.16
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/entertainment",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.68,
+    "values": [
+      0.68,
+      0.68,
+      0.68
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Avoid an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.53,
+    "values": [
+      0.44,
+      0.22,
+      0.53
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.54,
+    "values": [
+      0.23,
+      0.54,
+      0.51
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.39,
+    "values": [
+      0.33,
+      0.22,
+      0.39
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.28,
+    "values": [
+      0.03,
+      0.07,
+      0.28
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.27,
+    "values": [
+      0.27,
+      0.24,
+      0.24
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.63,
+    "values": [
+      0.06,
+      0.08,
+      0.63
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Document does not have a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "no-unload-listeners",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Registers an `unload` listener",
+    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.16,
+    "values": [
+      0.09,
+      0.14,
+      0.16
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.38,
+    "values": [
+      0.38,
+      0.38,
+      0.38
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.05,
+    "values": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 58,
+    "values": [
+      59,
+      58,
+      58
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      3,
+      3,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      3,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 10,
+    "values": [
+      10,
+      10,
+      10
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.25,
+      0.36,
+      0.27
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/sections",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.87,
+    "values": [
+      0.87,
+      0.87,
+      0.87
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Avoid an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.49,
+    "values": [
+      0.42,
+      0.24,
+      0.49
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.58,
+    "values": [
+      0.58,
+      0.23,
+      0.49
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.34,
+      0.24,
+      0.45
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.15,
+    "values": [
+      0.14,
+      0.06,
+      0.15
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.31,
+    "values": [
+      0.31,
+      0.01,
+      0.01
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.38,
+    "values": [
+      0.19,
+      0.06,
+      0.38
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.45,
+      0.45,
+      0.45
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.06,
+    "values": [
+      0.06,
+      0.05,
+      0.06
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 49,
+    "values": [
+      51,
+      49,
+      49
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      5,
+      4
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.15,
+    "values": [
+      0.15,
+      0.13,
+      0.04
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      3,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 7,
+    "values": [
+      7,
+      7,
+      7
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "canonical",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Document does not have a valid `rel=canonical`",
+    "auditDocumentationLink": "https://web.dev/canonical/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.39,
+    "values": [
+      0.39,
+      0.28,
+      0.28
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/news/topic/topic-news",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.45,
+      0.35,
+      0.26
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.54,
+    "values": [
+      0.54,
+      0.22,
+      0.25
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.45,
+      0.29,
+      0.26
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.24,
+    "values": [
+      0.14,
+      0.24,
+      0.06
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.35,
+    "values": [
+      0.31,
+      0.35,
+      0.02
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.82,
+    "values": [
+      0.82,
+      0.21,
+      0.1
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Document does not have a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.3,
+      0.36,
+      0.32
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.49,
+    "values": [
+      0.49,
+      0.49,
+      0.49
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.06,
+    "values": [
+      0.06,
+      0.06,
+      0.06
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 47,
+    "values": [
+      48,
+      48,
+      47
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      2,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.18,
+    "values": [
+      0.18,
+      0,
+      0.18
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      3,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 7,
+    "values": [
+      7,
+      7,
+      7
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "canonical",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Document does not have a valid `rel=canonical`",
+    "auditDocumentationLink": "https://web.dev/canonical/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.36,
+      0.27,
+      0.29
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10211",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.51,
+    "values": [
+      0.42,
+      0.51,
+      0.43
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.55,
+    "values": [
+      0.55,
+      0.55,
+      0.48
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.31,
+      0.36,
+      0.3
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.16,
+    "values": [
+      0.07,
+      0.16,
+      0.15
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.27,
+    "values": [
+      0.02,
+      0.21,
+      0.27
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.85,
+    "values": [
+      0.64,
+      0.64,
+      0.85
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.39,
+    "values": [
+      0.21,
+      0.29,
+      0.39
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.3,
+    "values": [
+      0.3,
+      0.3,
+      0.3
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.05,
+    "values": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 46,
+    "values": [
+      46,
+      47,
+      47
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      4,
+      2,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.19,
+    "values": [
+      0.19,
+      0.16,
+      0.16
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 4,
+    "values": [
+      4,
+      4,
+      4
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 9,
+    "values": [
+      9,
+      9,
+      9
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "canonical",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Document does not have a valid `rel=canonical`",
+    "auditDocumentationLink": "https://web.dev/canonical/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.33,
+    "values": [
+      0.33,
+      0.27,
+      0.24
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/9726",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "content-width",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Content is not sized correctly for the viewport",
+    "auditDocumentationLink": "https://web.dev/content-width/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.27,
+    "values": [
+      0.27,
+      0.27,
+      0.27
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "dom-size",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Avoid an excessive DOM size",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.46,
+    "values": [
+      0.25,
+      0.28,
+      0.46
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.53,
+    "values": [
+      0.53,
+      0.48,
+      0.48
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.35,
+    "values": [
+      0.25,
+      0.27,
+      0.35
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.06,
+    "values": [
+      0.06,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.25,
+    "values": [
+      0.25,
+      0.01,
+      0.01
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.11,
+    "values": [
+      0.05,
+      0.11,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "meta-description",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Document does not have a meta description",
+    "auditDocumentationLink": "https://web.dev/meta-description/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.06,
+    "values": [
+      0.06,
+      0.03,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.45,
+      0.45,
+      0.45
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.05,
+    "values": [
+      0.05,
+      0.05,
+      0.05
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 67,
+    "values": [
+      68,
+      67,
+      67
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      5,
+      4
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.19,
+    "values": [
+      0.14,
+      0.19,
+      0.18
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      3,
+      3
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 8,
+    "values": [
+      8,
+      8,
+      8
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.36,
+      0.32,
+      0.25
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/current-affairs-landing-page",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.89,
+    "values": [
+      0.89,
+      0.27,
+      0.29
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "bootup-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Reduce JavaScript execution time",
+    "auditDocumentationLink": "https://web.dev/bootup-time/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.36,
+    "values": [
+      0.36,
+      0.2,
+      0.36
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.5,
+    "values": [
+      0.34,
+      0.16,
+      0.5
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.34,
+    "values": [
+      0.28,
+      0.2,
+      0.34
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.04,
+    "values": [
+      0.04,
+      0.04,
+      0.01
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 6,
+    "values": [
+      6,
+      6,
+      6
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.25,
+    "values": [
+      0.25,
+      0.01,
+      0.01
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.2,
+    "values": [
+      0.09,
+      0.08,
+      0.2
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "max-potential-fid",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Max Potential First Input Delay",
+    "auditDocumentationLink": "https://web.dev/lighthouse-max-potential-fid/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      2,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      2,
+      2,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.34,
+    "values": [
+      0.29,
+      0.28,
+      0.34
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.59,
+    "values": [
+      0.59,
+      0.59,
+      0.59
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.04,
+    "values": [
+      0.04,
+      0.04,
+      0.04
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      6,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 47,
+    "values": [
+      47,
+      48,
+      48
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-optimized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Efficiently encode images",
+    "auditDocumentationLink": "https://web.dev/uses-optimized-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 3,
+    "values": [
+      3,
+      4,
+      6
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.48,
+    "values": [
+      0.48,
+      0.34,
+      0.22
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "uses-rel-preload",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Preload key requests",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preload/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 4,
+    "values": [
+      4,
+      4,
+      4
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 8,
+    "values": [
+      8,
+      8,
+      8
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.39,
+    "values": [
+      0.22,
+      0.24,
+      0.39
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/video/zaichuangshijidi50jiqitangzhongfanaotangjituan-34441",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "apple-touch-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Does not provide a valid `apple-touch-icon`",
+    "auditDocumentationLink": "https://web.dev/apple-touch-icon/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "aria-valid-attr-value",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "`[aria-*]` attributes do not have valid values",
+    "auditDocumentationLink": "https://web.dev/aria-valid-attr-value/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "color-contrast",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Background and foreground colors do not have a sufficient contrast ratio.",
+    "auditDocumentationLink": "https://web.dev/color-contrast/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "crawlable-anchors",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Links are not crawlable"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "errors-in-console",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Browser errors were logged to the console",
+    "auditDocumentationLink": "https://web.dev/errors-in-console/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "external-anchors-use-rel-noopener",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Links to cross-origin destinations are unsafe",
+    "auditDocumentationLink": "https://web.dev/external-anchors-use-rel-noopener/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.42,
+    "values": [
+      0.4,
+      0.38,
+      0.42
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "First Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/first-contentful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.52,
+    "values": [
+      0.52,
+      0.48,
+      0.22
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-cpu-idle",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "First CPU Idle",
+    "auditDocumentationLink": "https://web.dev/first-cpu-idle/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.31,
+    "values": [
+      0.29,
+      0.29,
+      0.31
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "first-meaningful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "First Meaningful Paint",
+    "auditDocumentationLink": "https://web.dev/first-meaningful-paint/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-alt",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Image elements do not have `[alt]` attributes",
+    "auditDocumentationLink": "https://web.dev/image-alt/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-aspect-ratio",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Displays images with incorrect aspect ratio",
+    "auditDocumentationLink": "https://web.dev/image-aspect-ratio/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "image-size-responsive",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Serves images with low resolution",
+    "auditDocumentationLink": "https://web.dev/serve-responsive-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "installable-manifest",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Web app manifest does not meet the installability requirements",
+    "auditDocumentationLink": "https://web.dev/installable-manifest/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "is-on-https",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Does not use HTTPS",
+    "auditDocumentationLink": "https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.15,
+    "values": [
+      0,
+      0.09,
+      0.15
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "largest-contentful-paint",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Largest Contentful Paint",
+    "auditDocumentationLink": "https://web.dev/lighthouse-largest-contentful-paint/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "legacy-javascript",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Avoid serving legacy JavaScript to modern browsers"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "link-name",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Links do not have a discernible name",
+    "auditDocumentationLink": "https://web.dev/link-name/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "load-fast-enough-for-pwa",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Page load is not fast enough on mobile networks",
+    "auditDocumentationLink": "https://web.dev/load-fast-enough-for-pwa/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.29,
+    "values": [
+      0.24,
+      0.26,
+      0.29
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "mainthread-work-breakdown",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Minimize main-thread work",
+    "auditDocumentationLink": "https://web.dev/mainthread-work-breakdown/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "maskable-icon",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Manifest doesn't have a maskable icon",
+    "auditDocumentationLink": "https://web.dev/maskable-icon-audit/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "no-unload-listeners",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Registers an `unload` listener",
+    "auditDocumentationLink": "https://developers.google.com/web/updates/2018/07/page-lifecycle-api#the-unload-event"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "offline-start-url",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "`start_url` does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/offline-start-url/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "offscreen-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Defer offscreen images",
+    "auditDocumentationLink": "https://web.dev/offscreen-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "render-blocking-resources",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Eliminate render-blocking resources",
+    "auditDocumentationLink": "https://web.dev/render-blocking-resources/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "server-response-time",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Reduce initial server response time",
+    "auditDocumentationLink": "https://web.dev/time-to-first-byte/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "service-worker",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Does not register a service worker that controls page and `start_url`",
+    "auditDocumentationLink": "https://web.dev/service-worker/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.28,
+    "values": [
+      0.28,
+      0.18,
+      0.28
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "speed-index",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Speed Index",
+    "auditDocumentationLink": "https://web.dev/speed-index/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "splash-screen",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Is not configured for a custom splash screen",
+    "auditDocumentationLink": "https://web.dev/splash-screen/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.45,
+    "values": [
+      0.45,
+      0.45,
+      0.45
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "tap-targets",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Tap targets are not sized appropriately",
+    "auditDocumentationLink": "https://web.dev/tap-targets/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "themed-omnibox",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Does not set a theme color for the address bar.",
+    "auditDocumentationLink": "https://web.dev/themed-omnibox/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.02,
+    "values": [
+      0.02,
+      0.02,
+      0.02
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "total-byte-weight",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Avoid enormous network payloads",
+    "auditDocumentationLink": "https://web.dev/total-byte-weight/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "unsized-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Image elements do not have explicit `width` and `height`",
+    "auditDocumentationLink": "https://web.dev/optimize-cls/#images-without-dimensions"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-css-rules",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Remove unused CSS",
+    "auditDocumentationLink": "https://web.dev/unused-css-rules/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 5,
+    "values": [
+      5,
+      5,
+      5
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "unused-javascript",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Remove unused JavaScript",
+    "auditDocumentationLink": "https://web.dev/unused-javascript/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 43,
+    "values": [
+      43,
+      43,
+      43
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-long-cache-ttl",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Serve static assets with an efficient cache policy",
+    "auditDocumentationLink": "https://web.dev/uses-long-cache-ttl/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 2,
+    "values": [
+      3,
+      2,
+      2
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-rel-preconnect",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Preconnect to required origins",
+    "auditDocumentationLink": "https://web.dev/uses-rel-preconnect/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 4,
+    "values": [
+      4,
+      4,
+      4
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-responsive-images",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Properly size images",
+    "auditDocumentationLink": "https://web.dev/uses-responsive-images/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 1,
+    "values": [
+      1,
+      1,
+      1
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-text-compression",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Enable text compression",
+    "auditDocumentationLink": "https://web.dev/uses-text-compression/"
+  },
+  {
+    "name": "maxLength",
+    "expected": 0,
+    "actual": 7,
+    "values": [
+      7,
+      7,
+      7
+    ],
+    "operator": "<=",
+    "passed": false,
+    "auditId": "uses-webp-images",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Serve images in next-gen formats",
+    "auditDocumentationLink": "https://web.dev/uses-webp-images/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "works-offline",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Current page does not respond with a 200 when offline",
+    "auditDocumentationLink": "https://web.dev/works-offline/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "canonical",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Document does not have a valid `rel=canonical`",
+    "auditDocumentationLink": "https://web.dev/canonical/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "deprecations",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Uses deprecated APIs",
+    "auditDocumentationLink": "https://web.dev/deprecations/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0.24,
+    "values": [
+      0.17,
+      0.24,
+      0.18
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "interactive",
+    "level": "warn",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Time to Interactive",
+    "auditDocumentationLink": "https://web.dev/interactive/"
+  },
+  {
+    "name": "minScore",
+    "expected": 0.9,
+    "actual": 0,
+    "values": [
+      0,
+      0,
+      0
+    ],
+    "operator": ">=",
+    "passed": false,
+    "auditId": "label",
+    "level": "error",
+    "url": "https://mediacorp%23%40cms:mediacorp%40%23%211%23@stg-www.8world.com/taxonomy/term/10731",
+    "auditTitle": "Form elements do not have associated labels",
+    "auditDocumentationLink": "https://web.dev/label/"
+  }
+]
