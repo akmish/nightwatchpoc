@@ -9,7 +9,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 0 * * FRI' # Scheduled to run every Fri at midnight(UTC)
 
 jobs:
   build:
