@@ -10,7 +10,7 @@ module.exports = {
         lastUpdateDropdown : '#as_qdr_button',
         submitButton : '.jfk-button[type="submit"]',
         link8World: {
-            selector: '//h3[@class="article-title modulewrap"]/a[@xpath="1"]',
+            selector: '//div[@data-column="Two-Third"]//article//a',
             locateStrategy: 'xpath'
         }
     },
@@ -22,9 +22,13 @@ module.exports = {
                     .click(`.goog-menuitem[value="${value}"]`);
         },
 
-        search() {
+        linkClick() {
             return this
-            .click('@submitButton');
+            .waitForElementVisible('@link8World')
+            .click('@link8World')
+            .waitForElementVisible('@link8World')
+            .click('@link8World')
+            .assert.urlContains('edited1')
         },
 
         setQuery(selector, value) {

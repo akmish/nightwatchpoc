@@ -6,6 +6,7 @@
   "scripts": {
     "debug": "node --inspect-brk node_modules/.bin/nightwatch",
     "test": "nightwatch -c nightwatch.conf.js --skiptags myprj",
+    "test1": "nightwatch -c nightwatch.conf.js",
     "test:browserstack": "nightwatch -c nightwatch.browserstack.conf.js",
     "cucumber:e2e:test": "mkdirp report && cucumber-js --require cucumber.conf.js --require step-definitions --format @cucumber/pretty-formatter --format json:report/cucumber_report.json --publish-quiet",
     "cucumber:e2e:browserstack": "mkdirp report && cucumber-js --require cucumber.conf.js --require nightwatch.browserstack.conf.js --require step-definitions --format @cucumber/pretty-formatter --format json:report/cucumber_report.json --publish-quiet",

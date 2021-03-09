@@ -12,8 +12,7 @@ module.exports = {
             // .selectFilter('@langDropdown', 'lang_th')
             // .selectFilter('@lastUpdateDropdown', 'w')
             // .search()
-            .click('@link8World')
-            .pause(5000)
+            .linkClick()
 
         browser
  //           .assert.urlContains('as_q=Bill+Gates', "Param: Query is Bill Gates")
