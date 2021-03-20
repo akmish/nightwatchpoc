@@ -4,10 +4,10 @@
 name: Google Lighthouse Test
 
 on:
-  #push:
+  push:
     branches: [ main ]
-  #pull_request:
-  #  branches: [ main ]
+  pull_request:
+    branches: [ main ]
   schedule:
     - cron: '0 0 * * FRI' # Scheduled to run every Fri at midnight(UTC)
 
