@@ -7,3 +7,4 @@ Demo NightWatch Framework:
   Remote execution on BrowserStack
   Integration Cucumber
   Parallel execution
+  test
